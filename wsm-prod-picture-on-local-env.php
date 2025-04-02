@@ -26,7 +26,7 @@ class WSM_Prod_Picture_On_Local_Env {
      * Remote domain for redirection
      * @var string
      */
-    private $remote_domain = 'https://www.thetransmitter.org';
+    private $remote_domain = 'https://google.com';
     
     /**
      * Constructor
